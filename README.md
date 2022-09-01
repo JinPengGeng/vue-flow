@@ -2,7 +2,7 @@
 
 ## Info
 
-Lightweight process design and screen rendering based on vue3. Complete core resources from real commercial projects.
+Lightweight process design and page rendering based on vue3. Complete core resources from real commercial projects.
 
 Ideal for businesses that require process design in the system.
 
